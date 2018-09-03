@@ -7,4 +7,4 @@ A Java library for clustering uncertain data
 - [U-AHC](http://dx.doi.org/10.1016/j.ins.2017.03.030)
 
 # Dependencies
-- [SSJ - Stochastic Simulation in Java](https://github.com/umontreal-simul/ssj)
+- [SSJ - Stochastic Simulation in Java](http://umontreal-simul.github.io/ssj/)
