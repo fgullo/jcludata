@@ -1,2 +1,2 @@
-# udata
-Clustering algorithms for uncertain data
+# JClUdata
+A Java library for clustering uncertain data
