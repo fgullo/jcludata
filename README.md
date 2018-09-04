@@ -1,5 +1,5 @@
 # JCLUdata
-<strong>Copyright 2008-2018 Francesco Gullo (UniCredit, R&D Dept., Italy), Giovanni Ponti (ENEA, Portici Research Center, Italy), Andrea Tagarelli (DIMES Dept., University of Calabria, Italy)</strong>
+<strong>Copyright 2008-2018, Francesco Gullo (UniCredit, R&D Dept., Italy), Giovanni Ponti (ENEA, Portici Research Center, Italy), Andrea Tagarelli (DIMES Dept., University of Calabria, Italy)</strong>
 <p>
 
 
