@@ -1,4 +1,8 @@
 # JCLUdata
+<strong>Copyright Francesco Gullo (UniCredit, R&D Dept., Italy), Giovanni Ponti (ENEA, Portici Research Center, Italy), Andrea Tagarelli (DIMES Dept., University of Calabria, Italy)</strong>
+<p>
+
+
 <strong>JCLUData</strong> is a Java software for clustering uncertain data.<br>
 The software contains an implementation of three algorithms for clustering uncertain data, which were originally defined and described in the peer-reviewed scientific publications reported below.<br>
 As unestablished research software, this code is provided on an “as is” basis without warranty of any kind, either expressed or implied. The downloading, or execution of any part of this software constitutes an implicit agreement to these terms. These terms and conditions are subject to change at any time without prior notice.
